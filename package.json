@@ -1,11 +1,15 @@
 {
-  "name": "angular2-quickstart",
+  "name": "layout-practice",
   "version": "1.0.0",
   "scripts": {
     "tsc": "tsc",
     "tsc:w": "tsc -w",
     "lite": "lite-server",
     "start": "concurrent \"npm run tsc:w\" \"npm run lite\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cscport/angular2-layout-swapping-practice.git"
   },
   "license": "ISC",
   "dependencies": {
